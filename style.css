@@ -1,16 +1,10 @@
 body {
-    background-image: url('Gif_1.gif');
+    background-image: url('GIFS/Gif_2.gif');
     background-size: cover;
     height: 100vh;
     padding: 0;
     margin: 0;
 }
-
-/* * {
-    background: #f1f2f6;
-    margin: 0;
-    padding: 0;
-} */
 
 .image-area {
     top: 50%;
@@ -128,6 +122,9 @@ body {
 
 .img-wrapper:hover ul li:nth-child(7) {
     transition-delay: 1.9s;
+}
+.img-wrapper:hover ul li:nth-child(8) {
+    transition-delay: 2.2s;
 }
 
 .img-wrapper ul li a {
