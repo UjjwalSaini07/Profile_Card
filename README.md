@@ -1,5 +1,7 @@
 ## My Profile Card
 
+Discover exceptional animation talent through our curated profile card showcase.
+
 **Normal Looking:**
 
 <details>	
